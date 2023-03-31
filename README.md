@@ -5,3 +5,6 @@
 - `cargo run`
 - Open browser at [http://localhost:6969](http://localhost:6969)
 - Enjoy!
+
+
+Inspired by [axact](https://github.com/fasterthanlime/axact)
